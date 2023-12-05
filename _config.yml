@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default"  # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+minimal_mistakes_skin    : "dirt"  # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
-locale                   : "Korea"
+locale                   : "Korea" 
 title                    : "Studying Berry Note"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Berry"
-description              : "Start studying coding From December 4, 2023 "
+name                     : "Berry" 
+description              : "Start studying coding From December 4, 2023" 
 url                      : "https://berry-me331.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
