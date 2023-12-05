@@ -300,3 +300,7 @@ defaults:
     values:
     layout: single
     author_profile: true
+
+catefory_archive:
+ type: liquid
+ path: /categories/
